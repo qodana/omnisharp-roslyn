@@ -1,0 +1,3 @@
+bootstrap: ./buildscript.sh
+dotnet:
+  solution: OmniSharp.sln
